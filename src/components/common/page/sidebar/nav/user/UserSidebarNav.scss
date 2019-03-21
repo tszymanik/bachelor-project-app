@@ -1,0 +1,8 @@
+.user-nav {
+    .nav-link {
+        padding: .5rem;
+        &.active {
+            font-weight: 500;
+        }
+    }
+}

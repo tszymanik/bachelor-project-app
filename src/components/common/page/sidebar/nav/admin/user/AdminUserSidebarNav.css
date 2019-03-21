@@ -1,0 +1,4 @@
+.admin-user-nav .nav-link {
+  padding: .5rem; }
+  .admin-user-nav .nav-link.active {
+    font-weight: 500; }

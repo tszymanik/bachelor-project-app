@@ -1,0 +1,5 @@
+.navbar-nav .nav-link {
+  padding-right: .5rem;
+  padding-left: .5rem; }
+  .navbar-nav .nav-link.active {
+    font-weight: 500; }

@@ -1,0 +1,4 @@
+.user-nav .nav-link {
+  padding: .5rem; }
+  .user-nav .nav-link.active {
+    font-weight: 500; }
